@@ -10,9 +10,6 @@ Clone the repo and get started today!
 
 ## 🖼️ Project Overview
 
-Here is a screenshot of the project:
-
-![Project Image](https://github.com/vaibhavpatil2734/Project-Management-Tool/blob/main/image/link%202.png?raw=true)
 
 
 ---
@@ -43,4 +40,4 @@ Here is a screenshot of the project:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/project-management-tool.git
+git clone "https://github.com/Prat260104/Project-Management-Tool.git"
